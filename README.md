@@ -1,7 +1,8 @@
 # WorldCampopleginae
 This repository contains the Dataset for Campopleginae Taxonomic Changes From 2016 to present      
 
-Last update september 2025 The next update for this dataset is scheduled for september 2026. If you have any corrections, new records, or additional references that could improve this dataset, please feel free to contribute!
+Last update september 2025 
+The next update for this dataset is scheduled for september 2026. If you have any corrections, new records, or additional references that could improve this dataset, please feel free to contribute!
 
 To ensure consistency, please submit new data in the same format as this dataset.
 You can open an issue on this repository or send your contributions via email to alvarods3@gmail.com. 
