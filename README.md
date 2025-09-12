@@ -5,7 +5,7 @@ Last update september 2025 The next update for this dataset is scheduled for sep
 
 To ensure consistency, please submit new data in the same format as this dataset.
 You can open an issue on this repository or send your contributions via email to alvarods3@gmail.com. 
-Contributions should include all relevant fields as described above.
+
 
 If you use this dataset in your research, please cite the corresponding paper:
 
