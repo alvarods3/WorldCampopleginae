@@ -10,7 +10,8 @@ You can open an issue on this repository or send your contributions via email to
 
 If you use this dataset in your research, please cite the corresponding paper:
 
-Santos, A.D. Overview of Campopleginae (Hymenoptera: Ichneumonidae) species described from 2016 to 2025 with revised taxon metrics. Manuscript in prep.
+Santos, A.D. 2025. Overview of Campopleginae (Hymenoptera: Ichneumonidae) species described from 2016 to 2025 with revised taxon metrics. Zootaxa 5722 (2): 199–228.
+https://doi.org/10.11646/zootaxa.5722.2.3
 
 
 Thank you for your support!
